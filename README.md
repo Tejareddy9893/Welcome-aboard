@@ -23,13 +23,7 @@ I'm an aspiring Data Scientist passionate about transforming raw data into insig
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
----
 
-## 📈 GitHub Stats
-
-![Saiteja's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaitejaMatta&show_icons=true&theme=tokyonight)
-
----
 
 ## 🔭 Current Projects
 
@@ -38,6 +32,7 @@ I'm an aspiring Data Scientist passionate about transforming raw data into insig
 ---
 
 ## 🌐 Connect With Me
+https://www.linkedin.com/in/saitejamatta/
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/saitejamatta/)
 <!-- Add other links here once you have a blog or portfolio -->
