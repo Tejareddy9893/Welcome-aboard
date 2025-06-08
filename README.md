@@ -26,7 +26,9 @@ I'm an aspiring Data Scientist passionate about transforming raw data into insig
 
 
 ## 🔭 Current Projects
+Currently working on a feature to add to my music player where I prompt my mood or vibe with the type of music I like and my previous playlist, using NLP and ML it will come up with a set of tracks suitable to my request. 
 
+A lil extra feature to fill my Music Void.
 
 
 ---
